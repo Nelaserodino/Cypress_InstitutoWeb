@@ -1,5 +1,3 @@
-# InstitutoWeb
+
 # Cypress_InstitutoWeb
-# Cypress_InstitutoWeb
-# Cypress_InstitutoWeb
-# Cypress_InstitutoWeb
+Practice Cypress automation

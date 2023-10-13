@@ -1,0 +1,21 @@
+{
+  "nombre": "#firstName",
+  "apellido": "#lastName",
+  "usuario": "#username",
+  "email": "#email",
+  "domicilio": "#address",
+  "domicilio2":"#address2",
+  "pais":"#country",
+  "provincia":"#state",
+  "cod_postal":"#zip",
+  "misma_direccion":"#same-address",
+  "guardar_info":"#save-info",
+  "debito":"#debit",
+  "tarjeta":"#cc-name",
+  "nro_tarjeta":"#cc-number",
+  "exp_tarjeta":"#cc-expiration",
+  "cvv_tarjeta":"#cc-cvv",
+  "btn_continuar":"#continue",
+  "titulo_h3":"h3",
+  "btn_volver":"#volver"
+}

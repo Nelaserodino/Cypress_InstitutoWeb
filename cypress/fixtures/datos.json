@@ -1,0 +1,32 @@
+[
+{
+  "test_nombre": "Jorge",
+  "test_apellido": "García",
+  "test_usuario": "jorgegarcia",
+  "test_email": "jorgegarcia@gmail.com",
+  "domicilio": "San Juan 50",
+  "domicilio2": "Rivadavia 8080",
+  "pais": "France",
+  "provincia": "Paris",
+  "cod_postal": "5858",
+  "tarjeta": "5858",
+  "nro_tarjeta": "544525854512",
+  "exp_tarjeta": "11/25",
+  "cvv_tarjeta": "654"
+},
+{
+  "test_nombre": "María",
+  "test_apellido": "Gonzalez",
+  "test_usuario": "marugonza",
+  "test_email": "mariagon@mail.com",
+  "domicilio": "San Juan 20",
+  "domicilio2": "Rivadavia 2020",
+  "pais": "United States",
+  "provincia": "California",
+  "cod_postal": "5555",
+  "tarjeta": "5555",
+  "nro_tarjeta": "555555555",
+  "exp_tarjeta": "11/25",
+  "cvv_tarjeta": "654"
+}
+]
